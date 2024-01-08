@@ -1,0 +1,25 @@
+{
+   "type": "pages",
+   "headline": "Links",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "icon": "msx-white-soft:public",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Barbie (2023)",
+         "action": "link:https://www.tokyvideo.com/es/embed/331096"
+      },
+      {
+         "title": "Link 2",
+         "action": "link:http://msx.benzac.de/info/"
+      },
+      {
+         "title": "Link 3",
+         "action": "link:window:http://msx.benzac.de/info/"
+      }
+   ]
+}
